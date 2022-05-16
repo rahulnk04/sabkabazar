@@ -79,3 +79,40 @@ Creating a test component to retive the data by dispaching actions.
 ***Step 1***
 Header and footer
 creating a wrapper - which will hold header content and footer as combined 
+
+***Step 2***
+Completing Header and footer design
+
+
+***Step 3***
+impodrting shopping cart svg and adding to Header navbar 
+
+
+
+***Step 4***
+Working with page not found componet and designing with scss
+
+
+***Step 5***
+creating routes for home products
+
+***Step 6***
+Starting with Home page design
+
+***Step 7***
+creating Slider component for images 
+fetching the data image path from canned server using fetch api and resolving through redux resucer 
+
+***Step 8***
+importing slider comp to home page
+
+***Step 9***
+Auth pages
+Signin and signup component 
+designing 
+creating form inputs
+styling with css
+
+using Hooks setting the onChange and button click actions 
+storing data in redux store 
+
