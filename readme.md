@@ -95,9 +95,11 @@ Working with page not found componet and designing with scss
 
 ***Step 5***
 creating routes for home products
+Starting with Home page design
+working with list products component using redux and retriving with fecth api and useSelector to access the data from store 
 
 ***Step 6***
-Starting with Home page design
+working on cart add delete from cart 
 
 ***Step 7***
 creating Slider component for images 
