@@ -1,3 +1,10 @@
+**Reference -------- Final Case Study - Framework**
+Reference document can be found on above folder Final Case Study - Framework
+
+**Static data for canned server ----------- shopping-cart-assignment**
+static data can be found on above folder shopping-cart-assignment
+
+
 **Setup Project**
 **Step 1**
 npm i @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons
@@ -21,6 +28,8 @@ root.render(
 );
 
 **Step 4**
+Adding Static data inside server Folder so that canned can access
+
 
 #### initiate Routes and route/switch in app.jsx
 
