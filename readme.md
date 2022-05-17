@@ -1,13 +1,11 @@
+https://user-images.githubusercontent.com/56837281/168788625-f8f60237-c5d6-4f15-a6cc-bffdfd6ba075.mp4
+
 <img src="https://user-images.githubusercontent.com/56837281/168781306-ba3ebe19-c11e-469f-b8d4-0208cdafdf56.png" height="50">
 <p float="left">
  <img src="https://user-images.githubusercontent.com/56837281/168780586-27931e9e-d2ca-4cf3-b709-efd6c633dfd5.jpg" height="250">
  <img src="https://user-images.githubusercontent.com/56837281/168780731-a5934f71-a336-42d8-b290-73608b69c56e.jpg" height="250">
  <img src="https://user-images.githubusercontent.com/56837281/168780471-257e2a90-2460-4b42-8cb3-6a61d3276cc5.jpg" height="250">
 </p>
-<video width="320" height="240" controls>
-  <source src="./demo.mp4" type="video/mp4">
-</video>
-
 
 **Reference -------- Final Case Study - Framework**
 Reference document can be found on above folder Final Case Study - Framework
