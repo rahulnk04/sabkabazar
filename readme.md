@@ -5,21 +5,8 @@
  <img src="https://user-images.githubusercontent.com/56837281/168780471-257e2a90-2460-4b42-8cb3-6a61d3276cc5.jpg" height="250">
 </p>
 <video width="320" height="240" controls>
-  <source src="./demo.mp4" type="video/mp4">
+  <source src="https://user-images.githubusercontent.com/56837281/168788625-f8f60237-c5d6-4f15-a6cc-bffdfd6ba075.mp4" type="video/mp4">
 </video>
-<iframe width="420" height="315"
-src="/demo.mp4">
-</iframe>
-<iframe width="420" height="315"
-src="./demo.mp4">
-</iframe>
-<iframe width="420" height="315"
-src="demo.mp4">
-</iframe>
-
-
-https://user-images.githubusercontent.com/56837281/168788625-f8f60237-c5d6-4f15-a6cc-bffdfd6ba075.mp4
-
 
 **Reference -------- Final Case Study - Framework**
 Reference document can be found on above folder Final Case Study - Framework
