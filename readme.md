@@ -7,15 +7,7 @@
 <video width="320" height="240" controls>
   <source src="./demo.mp4" type="video/mp4">
 </video>
-<iframe width="420" height="315"
-src="/demo.mp4">
-</iframe>
-<iframe width="420" height="315"
-src="./demo.mp4">
-</iframe>
-<iframe width="420" height="315"
-src="demo.mp4">
-</iframe>
+
 
 **Reference -------- Final Case Study - Framework**
 Reference document can be found on above folder Final Case Study - Framework
