@@ -4,15 +4,15 @@
  <img src="https://user-images.githubusercontent.com/56837281/168780731-a5934f71-a336-42d8-b290-73608b69c56e.jpg" height="250">
  <img src="https://user-images.githubusercontent.com/56837281/168780471-257e2a90-2460-4b42-8cb3-6a61d3276cc5.jpg" height="250">
 </p>
-
-
+<video width="320" height="240" controls>
+  <source src="./demo.mp4" type="video/mp4">
+</video>
 
 **Reference -------- Final Case Study - Framework**
 Reference document can be found on above folder Final Case Study - Framework
 
 **Static data for canned server ----------- shopping-cart-assignment**
 static data can be found on above folder shopping-cart-assignment
-
 
 **Setup Project**
 **Step 1**
@@ -39,13 +39,12 @@ root.render(
 **Step 4**
 Adding Static data inside server Folder so that canned can access
 
-
 #### initiate Routes and route/switch in app.jsx
 
 **Development**
 **Step 1**
 
-*creating Redux store, reducers and actions.*
+_creating Redux store, reducers and actions._
 
 productReducer
 userReducer
@@ -55,17 +54,16 @@ store
 
 **Step 2**
 
-*making use of createSlice from @reduxjs/toolkit*
+_making use of createSlice from @reduxjs/toolkit_
 
 **starting with category Reducer**
 
-*Folder structure*
-***src -> Redux -> reducer & store***
-
+_Folder structure_
+**_src -> Redux -> reducer & store_**
 
 **Step 3**
 
-***import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";***
+**_import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";_**
 setting initial state
 const initialState = {
 categories: [],
@@ -77,7 +75,7 @@ making use of fetch api rather axios
 creating states for loading, success and reject or pending, fullfilled and rejected
 
 **Step 4**
-creating Reducer actions for 
+creating Reducer actions for
 **productReducer, userReducer & cartReducer**
 
 **Step 5**
@@ -88,51 +86,45 @@ Initiating Store provider in index.jsx
 
 **TESTING DATA**
 Creating a test component to retive the data by dispaching actions.
-  ***TEST SUCCESS***
-  data retived from json
-
+**_TEST SUCCESS_**
+data retived from json
 
 **Development**
 
-***Step 1***
+**_Step 1_**
 Header and footer
-creating a wrapper - which will hold header content and footer as combined 
+creating a wrapper - which will hold header content and footer as combined
 
-***Step 2***
+**_Step 2_**
 Completing Header and footer design
 
+**_Step 3_**
+impodrting shopping cart svg and adding to Header navbar
 
-***Step 3***
-impodrting shopping cart svg and adding to Header navbar 
-
-
-
-***Step 4***
+**_Step 4_**
 Working with page not found componet and designing with scss
 
-
-***Step 5***
+**_Step 5_**
 creating routes for home products
 Starting with Home page design
-working with list products component using redux and retriving with fecth api and useSelector to access the data from store 
+working with list products component using redux and retriving with fecth api and useSelector to access the data from store
 
-***Step 6***
-working on cart add delete from cart 
+**_Step 6_**
+working on cart add delete from cart
 
-***Step 7***
-creating Slider component for images 
-fetching the data image path from canned server using fetch api and resolving through redux resucer 
+**_Step 7_**
+creating Slider component for images
+fetching the data image path from canned server using fetch api and resolving through redux resucer
 
-***Step 8***
+**_Step 8_**
 importing slider comp to home page
 
-***Step 9***
+**_Step 9_**
 Auth pages
-Signin and signup component 
-designing 
+Signin and signup component
+designing
 creating form inputs
 styling with css
 
-using Hooks setting the onChange and button click actions 
-storing data in redux store 
-
+using Hooks setting the onChange and button click actions
+storing data in redux store
