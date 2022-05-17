@@ -1,5 +1,5 @@
 
-![1636122779481](https://user-images.githubusercontent.com/56837281/168779466-1e3bde99-f714-42d1-aa83-b1431d225599.gif | width=100)
+<img src="https://user-images.githubusercontent.com/56837281/168779466-1e3bde99-f714-42d1-aa83-b1431d225599.gif" width="100" height="100">
 
 **Reference -------- Final Case Study - Framework**
 Reference document can be found on above folder Final Case Study - Framework
