@@ -1,3 +1,52 @@
+<style>
+  body {
+    font-size: 28px;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+  }
+
+  li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  li a:hover {
+    background-color: #111;
+  }
+
+  .active {
+    background-color: #4caf50;
+  }
+</style>
+<body>
+  <div class="header">
+    <h2>Scroll Down</h2>
+    <p>Scroll down to see the sticky effect.</p>
+  </div>
+
+  <ul>
+    <li><a class="active" href="#home">Home</a></li>
+    <li><a href="#news">News</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ul>
+</body>
+
 https://user-images.githubusercontent.com/56837281/168788625-f8f60237-c5d6-4f15-a6cc-bffdfd6ba075.mp4
 
 <img src="https://user-images.githubusercontent.com/56837281/168781306-ba3ebe19-c11e-469f-b8d4-0208cdafdf56.png" height="50">
